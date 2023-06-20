@@ -162,9 +162,9 @@ class PyTest(TestCommand):
 
 setup(
     name="pybloqs",
-    version="1.2.13",
-    author="Man Alpha Technology",
-    author_email="ManAlphaTech@man.com",
+    version="1.2.14",
+    author="Man Alpha Technology, giordano.colombi@mirante.ch",
+    author_email="ManAlphaTech@man.com, giordano.colombi@mirante.ch",
     description="Data Visualization and Report Building",
     long_description='\n'.join((long_description, changelog)),
     keywords=["ahl", "pdf", "html", "visualization", "report"],
